@@ -1,3 +1,6 @@
+# DEPRECATION WARNING
+This Ansible role has been deprecated in favor of collection [`almaops.common`](https://github.com/almaops/ansible-collection-common/tree/master/roles/flush_handlers) which is advised to be used instead.
+
 aboveops.flush_handlers
 =========
 
